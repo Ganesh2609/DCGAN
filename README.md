@@ -15,7 +15,7 @@ Some generated samples from both datasets are displayed below:
   ![MNIST Sample](datasets/celeba/celeba_results/sample_epoch_10.png)
 
 - **CELEBA** (Trained for 10 epochs):  
-  ![CELEBA Sample](Results/Train 1/Epoch_10.png)
+  ![CELEBA Sample]('Results/Train 1/Epoch_10.png')
 
 
 ## How to Run
