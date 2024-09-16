@@ -12,10 +12,10 @@ This repository contains a Deep Convolutional Generative Adversarial Network (DC
 Some generated samples from both datasets are displayed below:
 
 - **MNIST** (Trained for 4 epochs):  
-  ![MNIST Sample](datasets/celeba/celeba_results/sample_epoch_10.png)
+  ![MNIST Sample](Results/MNIST/Epoch_4.png)
 
 - **CELEBA** (Trained for 10 epochs):  
-  ![CELEBA Sample]('Results/Train 1/Epoch_10.png')
+  ![CELEBA Sample](Results/Train_1/Epoch_10.png)
 
 
 ## How to Run
