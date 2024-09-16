@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/396340c0-31c7-40e0-8cc1-4c7d80f4876c)# Deep Convolutional Generative Adversarial Network (DCGAN) - MNIST and CELEBA
+# Deep Convolutional Generative Adversarial Network (DCGAN) - MNIST and CELEBA
 
 This repository contains a Deep Convolutional Generative Adversarial Network (DCGAN) implementation trained on two datasets:
 - **MNIST**: Trained for 4 epochs to generate handwritten digit images.
